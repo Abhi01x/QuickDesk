@@ -72,9 +72,9 @@ Explore the **UI Mockup** here:
 
 ---
 
-## 👨‍👩‍👦‍👦 Team Members
+## 👨🏻 Team Members
 
-**Team Name:** Code Predators / Team 0442
+**Team Name:** Block Minds
 
 - **Abhishek Raj Patel (TL)**
 - **Vinay Pratap Singh Baghel**
